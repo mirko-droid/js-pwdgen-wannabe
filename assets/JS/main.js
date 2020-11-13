@@ -19,7 +19,7 @@
 // //SELEZIONO NEL document l'elemento ID nelHTML inserisci = valore richiesto in prompt ovvero name
 // document.getElementById('pswdgen').innerHTML = name + surname + color + 19;
 
-// versione più ordinata
+// Versione più ordinata
 // dichiariamo le variabili
 var name, surname, color;
 //Assegnata una funzione alla variabile (definito contenuto del var)
